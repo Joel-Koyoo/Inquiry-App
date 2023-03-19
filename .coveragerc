@@ -1,0 +1,7 @@
+[run]
+source = authentication/,ReviewApp/,
+omit = venv
+        */migrations/*
+        */tests/*
+        */__init__.py/*
+        
